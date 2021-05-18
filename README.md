@@ -2,8 +2,9 @@
 
 # Creating GraphQL backend using Rust
 Each componenet  of the architecture answers several questions that may arise when implementing GraphQL API. 
-##Service
-------------------------
+
+## Service
+
  * Auth-Service   (RUST)
  * Crop-Service   (RUST)
  * To-Do Service  (RUST)
@@ -24,4 +25,5 @@ main technolgoies used dor the project
  * Container Orchestration  - Docker
 
 # Common tasks when creating GrahpQL API
+
 # Microservices to a single endpoint using Apollo Server and Apollo Federation. 
