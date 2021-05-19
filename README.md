@@ -8,7 +8,6 @@ Each componenet  of the architecture answers several questions that may arise wh
  * Auth-Service   (RUST)
  * Crop-Service   (RUST)
  * To-Do Service  (RUST)
- * Streak Service (RUST)
  * Apollo-Server (JS)
 
  Two Main GraphQL backends in Rust: *Juniper* and *Async-graphql*, only Async-graphql supports Apollo Federation
