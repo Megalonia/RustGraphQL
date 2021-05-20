@@ -5,8 +5,6 @@
 +
 ```
 # Creating GraphQL backend using Rust
-Each componenet  of the architecture answers several questions that may arise when implementing GraphQL API. 
-
 ## Service
  * Auth-Service   (RUST)
  * Post-Service   (RUST)
@@ -31,6 +29,7 @@ Rust Libraries
  * argonautica        - Password Hashing Library
  * jsonwebtoken       - JWT library
  * Testcontainers-rs  - Testing Library
+
 
 # Common tasks when creating GrahpQL API
 
