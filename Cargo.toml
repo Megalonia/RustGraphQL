@@ -1,4 +1,6 @@
 [workspace]
 members = [
     "post-service",
+    "auth-service",
+    "common-utlis",
 ]
