@@ -1,5 +1,5 @@
 mod connection;
-pub use connection::create_connection_pool;
+use connection::create_connection_pool;
 
 use actix_web::{App,HttpServer};
 use dotenv::dotenv;
